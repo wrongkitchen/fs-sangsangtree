@@ -1,0 +1,89 @@
+header {
+}
+
+header .logo1, header .logo3{
+	position:absolute;
+	width:10%;
+	top:30px;;
+	left:45px;
+	font-size:0px;
+	z-index:1100;
+	display:none;
+}
+header .logo2{
+	position:absolute;
+	width:10%;
+	bottom:30px;;
+	right:45px;
+	font-size:0px;
+	z-index:1100;
+	display:none;
+}
+header .logo.inside{
+	position:absolute;
+	text-align:left;
+}
+
+header .logo1>img, header .logo2>img, header .logo3>img{
+	width:100%;
+}
+
+header .logo .logo-2 {
+	width:40%;
+	display:none;
+}
+
+header .menu {
+	position:absolute;
+	width:8%;
+	height:100%;
+	top:0px;
+	right:40px;
+	z-index:1000;
+	display:none;
+}
+
+header .menu2 {
+	position:absolute;
+	width:8%;
+	bottom:80px;
+	right:40px;
+	text-align:center;
+	z-index:1000;
+	display:none;
+}
+
+header .menu a{
+	position:relative;
+	width:100%;
+	display:block;
+	margin-bottom:10px;
+	clear:both;
+}
+
+header .menu2 a{
+	position:relative;
+	margin:10px 0px; 
+	display:block;
+	clear:both;
+}
+
+header .menu a img{
+	width:100%;
+}
+header .menu .btn1 {
+	margin-top:20px;
+}
+header .menu .btn4 {
+	margin-top:20px;
+	display:none;
+}
+header .menu .info {
+	position:absolute;
+	bottom:50px;
+}
+
+header .menu .share {
+	position:absolute;
+	bottom:100px;
+}

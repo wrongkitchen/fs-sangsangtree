@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'pilcrow_softbold';
+    src: url('../fonts/indian_type_foundry_-_pilcrowsoft-bold-webfont.eot');
+    src: url('../fonts/indian_type_foundry_-_pilcrowsoft-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/indian_type_foundry_-_pilcrowsoft-bold-webfont.woff') format('woff'),
+         url('../fonts/indian_type_foundry_-_pilcrowsoft-bold-webfont.ttf') format('truetype'),
+         url('../fonts/indian_type_foundry_-_pilcrowsoft-bold-webfont.svg#pilcrow_softbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'pilcrow_softregular';
+    src: url('../fonts/indian_type_foundry_-_pilcrowsoft-webfont.eot');
+    src: url('../fonts/indian_type_foundry_-_pilcrowsoft-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/indian_type_foundry_-_pilcrowsoft-webfont.woff') format('woff'),
+         url('../fonts/indian_type_foundry_-_pilcrowsoft-webfont.ttf') format('truetype'),
+         url('../fonts/indian_type_foundry_-_pilcrowsoft-webfont.svg#pilcrow_softregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
